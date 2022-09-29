@@ -9,3 +9,7 @@ emaint sync -r bluedragon28-overlay
 ```
 
 Enjoy.
+
+# Packages available
+
+- [Spot](https://github.com/xou816/spot): Native Spotify client for the GNOME desktop
