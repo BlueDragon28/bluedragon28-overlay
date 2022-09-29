@@ -382,6 +382,7 @@ src_compile() {
 src_install() {
   DESTDIR="${D}" eninja install -C target || die
   
+  # Dirty workaround, without it spot don't start.
   install -d "${D}/usr/share/gnome/glib-2.0/schemas/"
   install -p -m 644 "${FILESDIR}/gschemas.compiled" "${D}/usr/share/gnome/glib-2.0/schemas/"
 }
