@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=IntelliJ IDEA Community
+Comment=Java IDE by JetBrains
+GenericName=IDE
+Exec=/usr/bin/ideaIC %F
+Icon=/opt/intellij_idea_community/bin/idea.png
+Type=Application
+StartupNotify=false
+StartupWMClass=IDEA
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;application/x-code-workspace;
+Keywords=intellij;idea;community;jetbrains

@@ -13,3 +13,4 @@ Enjoy.
 # Packages available
 
 - [Spot](https://github.com/xou816/spot): Native Spotify client for the GNOME desktop
+- [IntelliJ IDEA Community](https://www.jetbrains.com/idea/): Java IDE by JetBrains

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /opt/intellij_idea_community/bin
+./idea.sh "$@"
